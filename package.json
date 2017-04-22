@@ -1,0 +1,24 @@
+{
+  "name": "usort",
+  "version": "1.0.0",
+  "description": "URL shortner application with basic analytics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikhilMaheshwari/url_shortner.git"
+  },
+  "author": "Nikhil Maheshwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikhilMaheshwari/url_shortner/issues"
+  },
+  "homepage": "https://github.com/NikhilMaheshwari/url_shortner#readme",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.2"
+  }
+}
